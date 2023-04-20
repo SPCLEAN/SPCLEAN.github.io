@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hompage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Chunhui Chen"
   avatar           : "spclean.png"
   bio              : "Stay hungry, stay foolish."
-  location         : "Location"
+  location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&tzom=-480&user=XPj3ec4AAAAJ"

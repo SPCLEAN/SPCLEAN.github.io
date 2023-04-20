@@ -12,6 +12,6 @@ I'm a doctoral candidate from [Department of Mathematical Sciences](https://www.
 
 I recieved my Bachelor of Engineering from Tsien Excellence in Engineering Program, [School of Aerospace Engineering](https://www.hy.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) and also minored in Statistics at [Center for Statistical Science](http://www.stat.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-You can find my CV here: [Chen Chunhui's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](cch21@mails.tsinghua.edu.cn) / [Github](https://github.com/SPCLEAN) / [LinkedIn](https://www.linkedin.com/in/chunhui-chen-9642a6268/)

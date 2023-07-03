@@ -2,7 +2,7 @@
 title: "Conference Proceeding talk on VTC2021-Spring"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2021-04-25-talk-1
+permalink: /awards/awards-1
 venue: "IEEE 93rd Vehicular Technology Conference (VTC2021-Spring)"
 date: 2021-04-25
 location: "Virtual Conference"

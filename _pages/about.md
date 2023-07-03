@@ -14,4 +14,9 @@ I recieved my Bachelor of Engineering from Tsien Excellence in Engineering Progr
 
 You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
+## Awards
+* Huawei Spark Award, Huawei Technologies Company, 2023-7
+* Excellent graduates of Tsinghua University, 2021-6
+* Honours degrees in Tsien Excellence in Engineering Program, 2021-6
+
 [Email](cch21@mails.tsinghua.edu.cn) / [Github](https://github.com/SPCLEAN) / [LinkedIn](https://www.linkedin.com/in/chunhui-chen-9642a6268/)

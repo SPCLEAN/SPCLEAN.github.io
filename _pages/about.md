@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. student from [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) and I work with Professor Hao Wu as a member of the THMIL lab. I currently also am the Technical Research Engineer (intern) at [Huawei Technologies Company](https://www.huawei.com/) and Quantitative Research Consultant at [WorldQuant](https://www.worldquant.com/). My research interest includes numerical computation for optimization like optimal transport, statistics for finance and machine learning. 
+I'm a second-year Ph.D. student from [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) and I work with Professor Hao Wu as a member of the THMIL lab. I am currently also the Technical Research Engineer (intern) at [Huawei Technologies Company](https://www.huawei.com/) and Quantitative Research Consultant at [WorldQuant](https://www.worldquant.com/). My research interest includes numerical computation for optimization like optimal transport, statistics for finance and machine learning. 
 
 I recieved my Bachelor of Engineering from Tsien Excellence in Engineering Program, [School of Aerospace Engineering](https://www.hy.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) and also minored in Statistics at [Center for Statistical Science](http://www.stat.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 

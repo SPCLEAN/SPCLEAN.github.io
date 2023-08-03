@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chunhui Chen's Personal Hompage"
+title                    : "Chunhui Chen (陈春晖)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
